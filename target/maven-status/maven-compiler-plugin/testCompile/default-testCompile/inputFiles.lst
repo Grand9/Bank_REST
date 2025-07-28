@@ -1,9 +1,0 @@
-/home/grand/Bank_REST/src/test/java/com/example/bankcards/service/CardServiceImplTest.java
-/home/grand/Bank_REST/src/test/java/com/example/bankcards/service/UserServiceImplTest.java
-/home/grand/Bank_REST/src/test/java/com/example/bankcards/controller/AdminCardControllerTest.java
-/home/grand/Bank_REST/src/test/java/com/example/bankcards/service/TransferServiceImplTest.java
-/home/grand/Bank_REST/src/test/java/com/example/bankcards/controller/AuthenticationControllerTest.java
-/home/grand/Bank_REST/src/test/java/com/example/bankcards/BankRestApplicationTests.java
-/home/grand/Bank_REST/src/test/java/com/example/bankcards/service/AuthServiceImplTest.java
-/home/grand/Bank_REST/src/test/java/com/example/bankcards/controller/AdminUserControllerTest.java
-/home/grand/Bank_REST/src/test/java/com/example/bankcards/controller/UserCardControllerTest.java
