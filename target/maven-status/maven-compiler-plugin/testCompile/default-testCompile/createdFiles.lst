@@ -1,0 +1,9 @@
+com/example/bankcards/controller/AdminCardControllerTest.class
+com/example/bankcards/controller/AdminUserControllerTest.class
+com/example/bankcards/BankRestApplicationTests.class
+com/example/bankcards/service/TransferServiceImplTest.class
+com/example/bankcards/controller/AuthenticationControllerTest.class
+com/example/bankcards/controller/UserCardControllerTest.class
+com/example/bankcards/service/CardServiceImplTest.class
+com/example/bankcards/service/UserServiceImplTest.class
+com/example/bankcards/service/AuthServiceImplTest.class
